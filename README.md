@@ -1,2 +1,2 @@
-# hello-world
+print(hello wolrd)
 primeiro repositório aqui.
